@@ -1,4 +1,4 @@
-# FASTag Scam Detection Tool 
+# FASTag Scam Detection Tool.
 
 ## Problem
 Nowadays many people fall into FASTag recharge scams through fake links and messages. These scams use attractive offers like cashback and urgent warnings to trick users.
