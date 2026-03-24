@@ -1,3 +1,6 @@
+Name : Ankit Mewada
+Registration No : 25MIM10014
+
 # FASTag Scam Detection Tool.
 
 ## Problem
